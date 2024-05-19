@@ -1,8 +1,8 @@
 {
-    "name": "final-project",
+    "name": "stackpack-journey",
     "version": "4.0.0",
-    "description": "Phaser 3 Final Project",
-    "homepage": "https://github.com/UD-S24-CISC374/final-project-template#readme",
+    "description": "CISC 374 Final Project",
+    "homepage": "https://github.com/UD-S24-CISC374/final-project-yellow#readme",
     "main": "index.js",
     "scripts": {
         "start": "webpack serve --config webpack/webpack.dev.js",
@@ -21,15 +21,23 @@
         "html5 game",
         "TypeScript",
         "webpack",
-        "starter"
+        "starter",
+        "stack",
+        "stackpack",
+        "journey",
+        "LIFO",
+        "push",
+        "pop",
+        "education",
+        "game"
     ],
     "author": {
-        "name": "Austin Cory Bart",
-        "url": "https://github.com/acbart"
+        "name": "Aparna Roy, Emilie Barniak, Sam Glover",
+        "url": "https://github.com/UD-S24-CISC374/final-project-yellow"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/UD-S24-CISC374/final-project-template.git"
+        "url": "https://github.com/UD-S24-CISC374/final-project-yellow.git"
     },
     "engines": {
         "node": ">=12"
